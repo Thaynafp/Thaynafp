@@ -30,14 +30,24 @@ Pipeline de NLP em Python para mais de mil transcrições comerciais — tokeniz
 
 ## 🛠️ Stack técnica
 
-**Dados & Analytics:** SQL (MySQL) · Python (Pandas) · Power BI (DAX) · Modelagem Dimensional · Pipelines ETL
-**Algoritmos & Estatística:** Estruturas de dados (grafos, filas de prioridade) · Programação Dinâmica · Estatística Bayesiana
-**IA:** NLP · TF-IDF · Consumo de APIs RESTful
-**Cloud:** AWS (Cloud Practitioner Essentials — em curso)
-**Ferramentas:** Git/GitHub · Scrum · Kanban
+**Dados & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**IA & Cloud**
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/thayná-lopes) · tflopes01@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayná-lopes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tflopes01@gmail.com)
