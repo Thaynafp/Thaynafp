@@ -1,6 +1,6 @@
 # Olá, sou a Thayná 👋
 
-Estudante de Engenharia de Software (FIAP) buscando estágio em **Dados e Tecnologia**. Construo pipelines, modelo dados e transformo análise em decisão de negócio — com base sólida em algoritmos e estatística.
+Estudante de Engenharia de Software (FIAP) buscando estágio em **Dados e Tecnologia**. Construo pipelines, modelo dados e transformo análise em decisão de negócio.
 
 🔎 Aberta a Análise de Dados, Engenharia de Dados e Data Science.
 
